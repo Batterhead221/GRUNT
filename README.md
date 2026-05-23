@@ -1,4 +1,17 @@
 # GRUNT
+
+<p align="center">
+
+  <img src="Outputs/IMG/3D-T.png" alt="GRUNT top 3D board render" width="700">
+
+</p>
+
+<p align="center">
+
+  <img src="Outputs/IMG/3D-B.png" alt="GRUNT bottom 3D board render" width="700">
+
+</p>
+
 USB-powered ESP32-S3 sender node for HIVE outlet/circuit heartbeat monitoring
 
 GRUNT is a small plug-in sender board built around a Seeed Studio XIAO ESP32-S3. It plugs into a USB wall adapter through a USB-A male connector and sends periodic ESP-NOW heartbeat packets to the HIVE gateway.

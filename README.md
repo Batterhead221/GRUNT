@@ -125,10 +125,3 @@ GRUNT sends a heartbeat packet over ESP-NOW at a fixed interval.
 ## Safety Note
 
 GRUNT does not connect directly to mains voltage. It is powered only by a standard USB wall adapter.
-
-## Known Notes
-
-- The XIAO ESP32-S3 external antenna must be installed for reliable ESP-NOW range.
-- The USB-A connector is power-only.
-- HIVE is the receiver/gateway board.
-- GRUNT is the sender/outlet node.
